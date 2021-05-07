@@ -45,7 +45,7 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git",
-    "grunt": "^1.0.4",
+    "grunt": "^1.3.0",
     "grunt-css": "^0.5.4",
     "http-proxy-middleware": "^0.20.0",
     "resize-observer-polyfill": "^1.5.1",
